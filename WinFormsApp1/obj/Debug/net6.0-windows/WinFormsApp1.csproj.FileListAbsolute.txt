@@ -1,0 +1,90 @@
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormVendedores.resources
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormClientes.resources
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormFacturacion.resources
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormInformes.resources
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormProductos.resources
+C:\Users\Alumno Publica\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormInicio.resources
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormClientes.resources
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormFacturacion.resources
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormInformes.resources
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormInicio.resources
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormProductos.resources
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormVendedores.resources
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\garci\Downloads\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormClientes.resources
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormFacturacion.resources
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormInformes.resources
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormInicio.resources
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormProductos.resources
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormVendedores.resources
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormClientes.resources
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormFacturacion.resources
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormInicio.resources
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormProductos.resources
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FormVendedores.resources
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\garci\Source\Repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\garci\source\repos\Gestion-compra-venta-C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\garci\source\repos\Gestion-compra-venta-C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\garci\source\repos\Gestion-compra-venta-C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\garci\source\repos\Gestion-compra-venta-C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\garci\source\repos\Gestion-compra-venta-C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\garci\source\repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\garci\source\repos\Gestion-compra-venta-C\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
